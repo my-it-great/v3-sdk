@@ -4,14 +4,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "3.9.0",
+  "version": "3.9.6",
   "description": "⚒️ An SDK for building applications on top of Uniswap V3",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v3-sdk.git",
+  "repository": "https://github.com/my-it-great/v3-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
